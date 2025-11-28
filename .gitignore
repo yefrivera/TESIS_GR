@@ -6,7 +6,7 @@ __pycache__/
 venv_tesisGR/
 
 # Data
-data/raw/
+
 
 # Model weights
 weights/
