@@ -1,0 +1,17 @@
+# Caches
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv_tesisGR/
+
+# Data
+data/raw/
+
+# Model weights
+weights/
+
+# Environment variables
+.env
+
+# C

@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+PyWavelets
+scikit-image
+numpy
+scipy
+pandas
+scikit-learn
+tqdm
+matplotlib
