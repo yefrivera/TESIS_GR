@@ -27,7 +27,7 @@ class Config:
     # --- ARQUITECTURA DEL MODELO (3D-ResNeXt + CBAM) ---
     # Configurado para 4 clases iniciales (ej. Swipe, Zoom, Click, NoGesture).
     # Nota: HaGRIDv2 original tiene muchas más, pero se reduce para el prototipo específico.
-    NUM_CLASSES = 4            
+    NUM_CLASSES = 5        
     
     # Cardinalidad estándar para ResNeXt, controlando el número de grupos de convolución[cite: 1199].
     CARDINALITY = 32           

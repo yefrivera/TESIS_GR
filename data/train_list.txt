@@ -1,192 +1,255 @@
-./data/raw/train\agarrar\agarrar (1).mp4 0
-./data/raw/train\agarrar\agarrar (10).mp4 0
-./data/raw/train\agarrar\agarrar (11).mp4 0
-./data/raw/train\agarrar\agarrar (12).mp4 0
-./data/raw/train\agarrar\agarrar (13).mp4 0
-./data/raw/train\agarrar\agarrar (14).mp4 0
-./data/raw/train\agarrar\agarrar (15).mp4 0
-./data/raw/train\agarrar\agarrar (16).mp4 0
-./data/raw/train\agarrar\agarrar (17).mp4 0
-./data/raw/train\agarrar\agarrar (18).mp4 0
-./data/raw/train\agarrar\agarrar (19).mp4 0
-./data/raw/train\agarrar\agarrar (2).mp4 0
-./data/raw/train\agarrar\agarrar (20).mp4 0
-./data/raw/train\agarrar\agarrar (21).mp4 0
-./data/raw/train\agarrar\agarrar (22).mp4 0
-./data/raw/train\agarrar\agarrar (23).mp4 0
-./data/raw/train\agarrar\agarrar (24).mp4 0
-./data/raw/train\agarrar\agarrar (25).mp4 0
-./data/raw/train\agarrar\agarrar (26).mp4 0
-./data/raw/train\agarrar\agarrar (27).mp4 0
-./data/raw/train\agarrar\agarrar (28).mp4 0
-./data/raw/train\agarrar\agarrar (29).mp4 0
-./data/raw/train\agarrar\agarrar (3).mp4 0
-./data/raw/train\agarrar\agarrar (30).mp4 0
-./data/raw/train\agarrar\agarrar (31).mp4 0
-./data/raw/train\agarrar\agarrar (32).mp4 0
-./data/raw/train\agarrar\agarrar (33).mp4 0
-./data/raw/train\agarrar\agarrar (34).mp4 0
-./data/raw/train\agarrar\agarrar (35).mp4 0
-./data/raw/train\agarrar\agarrar (36).mp4 0
-./data/raw/train\agarrar\agarrar (37).mp4 0
-./data/raw/train\agarrar\agarrar (38).mp4 0
-./data/raw/train\agarrar\agarrar (39).mp4 0
-./data/raw/train\agarrar\agarrar (4).mp4 0
-./data/raw/train\agarrar\agarrar (40).mp4 0
-./data/raw/train\agarrar\agarrar (41).mp4 0
-./data/raw/train\agarrar\agarrar (42).mp4 0
-./data/raw/train\agarrar\agarrar (43).mp4 0
-./data/raw/train\agarrar\agarrar (44).mp4 0
-./data/raw/train\agarrar\agarrar (45).mp4 0
-./data/raw/train\agarrar\agarrar (46).mp4 0
-./data/raw/train\agarrar\agarrar (47).mp4 0
-./data/raw/train\agarrar\agarrar (48).mp4 0
-./data/raw/train\agarrar\agarrar (5).mp4 0
-./data/raw/train\agarrar\agarrar (6).mp4 0
-./data/raw/train\agarrar\agarrar (7).mp4 0
-./data/raw/train\agarrar\agarrar (8).mp4 0
-./data/raw/train\agarrar\agarrar (9).mp4 0
-./data/raw/train\confirmar\confirmar (1).mp4 1
-./data/raw/train\confirmar\confirmar (10).mp4 1
-./data/raw/train\confirmar\confirmar (11).mp4 1
-./data/raw/train\confirmar\confirmar (12).mp4 1
-./data/raw/train\confirmar\confirmar (13).mp4 1
-./data/raw/train\confirmar\confirmar (14).mp4 1
-./data/raw/train\confirmar\confirmar (15).mp4 1
-./data/raw/train\confirmar\confirmar (16).mp4 1
-./data/raw/train\confirmar\confirmar (17).mp4 1
-./data/raw/train\confirmar\confirmar (18).mp4 1
-./data/raw/train\confirmar\confirmar (19).mp4 1
-./data/raw/train\confirmar\confirmar (2).mp4 1
-./data/raw/train\confirmar\confirmar (20).mp4 1
-./data/raw/train\confirmar\confirmar (21).mp4 1
-./data/raw/train\confirmar\confirmar (22).mp4 1
-./data/raw/train\confirmar\confirmar (23).mp4 1
-./data/raw/train\confirmar\confirmar (24).mp4 1
-./data/raw/train\confirmar\confirmar (25).mp4 1
-./data/raw/train\confirmar\confirmar (26).mp4 1
-./data/raw/train\confirmar\confirmar (27).mp4 1
-./data/raw/train\confirmar\confirmar (28).mp4 1
-./data/raw/train\confirmar\confirmar (29).mp4 1
-./data/raw/train\confirmar\confirmar (3).mp4 1
-./data/raw/train\confirmar\confirmar (30).mp4 1
-./data/raw/train\confirmar\confirmar (31).mp4 1
-./data/raw/train\confirmar\confirmar (32).mp4 1
-./data/raw/train\confirmar\confirmar (33).mp4 1
-./data/raw/train\confirmar\confirmar (34).mp4 1
-./data/raw/train\confirmar\confirmar (35).mp4 1
-./data/raw/train\confirmar\confirmar (36).mp4 1
-./data/raw/train\confirmar\confirmar (37).mp4 1
-./data/raw/train\confirmar\confirmar (38).mp4 1
-./data/raw/train\confirmar\confirmar (39).mp4 1
-./data/raw/train\confirmar\confirmar (4).mp4 1
-./data/raw/train\confirmar\confirmar (40).mp4 1
-./data/raw/train\confirmar\confirmar (41).mp4 1
-./data/raw/train\confirmar\confirmar (42).mp4 1
-./data/raw/train\confirmar\confirmar (43).mp4 1
-./data/raw/train\confirmar\confirmar (44).mp4 1
-./data/raw/train\confirmar\confirmar (45).mp4 1
-./data/raw/train\confirmar\confirmar (46).mp4 1
-./data/raw/train\confirmar\confirmar (47).mp4 1
-./data/raw/train\confirmar\confirmar (48).mp4 1
-./data/raw/train\confirmar\confirmar (5).mp4 1
-./data/raw/train\confirmar\confirmar (6).mp4 1
-./data/raw/train\confirmar\confirmar (7).mp4 1
-./data/raw/train\confirmar\confirmar (8).mp4 1
-./data/raw/train\confirmar\confirmar (9).mp4 1
-./data/raw/train\seleccionar\seleccionar (1).mp4 2
-./data/raw/train\seleccionar\seleccionar (10).mp4 2
-./data/raw/train\seleccionar\seleccionar (11).mp4 2
-./data/raw/train\seleccionar\seleccionar (12).mp4 2
-./data/raw/train\seleccionar\seleccionar (13).mp4 2
-./data/raw/train\seleccionar\seleccionar (14).mp4 2
-./data/raw/train\seleccionar\seleccionar (15).mp4 2
-./data/raw/train\seleccionar\seleccionar (16).mp4 2
-./data/raw/train\seleccionar\seleccionar (17).mp4 2
-./data/raw/train\seleccionar\seleccionar (18).mp4 2
-./data/raw/train\seleccionar\seleccionar (19).mp4 2
-./data/raw/train\seleccionar\seleccionar (2).mp4 2
-./data/raw/train\seleccionar\seleccionar (20).mp4 2
-./data/raw/train\seleccionar\seleccionar (21).mp4 2
-./data/raw/train\seleccionar\seleccionar (22).mp4 2
-./data/raw/train\seleccionar\seleccionar (23).mp4 2
-./data/raw/train\seleccionar\seleccionar (24).mp4 2
-./data/raw/train\seleccionar\seleccionar (25).mp4 2
-./data/raw/train\seleccionar\seleccionar (26).mp4 2
-./data/raw/train\seleccionar\seleccionar (27).mp4 2
-./data/raw/train\seleccionar\seleccionar (28).mp4 2
-./data/raw/train\seleccionar\seleccionar (29).mp4 2
-./data/raw/train\seleccionar\seleccionar (3).mp4 2
-./data/raw/train\seleccionar\seleccionar (30).mp4 2
-./data/raw/train\seleccionar\seleccionar (31).mp4 2
-./data/raw/train\seleccionar\seleccionar (32).mp4 2
-./data/raw/train\seleccionar\seleccionar (33).mp4 2
-./data/raw/train\seleccionar\seleccionar (34).mp4 2
-./data/raw/train\seleccionar\seleccionar (35).mp4 2
-./data/raw/train\seleccionar\seleccionar (36).mp4 2
-./data/raw/train\seleccionar\seleccionar (37).mp4 2
-./data/raw/train\seleccionar\seleccionar (38).mp4 2
-./data/raw/train\seleccionar\seleccionar (39).mp4 2
-./data/raw/train\seleccionar\seleccionar (4).mp4 2
-./data/raw/train\seleccionar\seleccionar (40).mp4 2
-./data/raw/train\seleccionar\seleccionar (41).mp4 2
-./data/raw/train\seleccionar\seleccionar (42).mp4 2
-./data/raw/train\seleccionar\seleccionar (43).mp4 2
-./data/raw/train\seleccionar\seleccionar (44).mp4 2
-./data/raw/train\seleccionar\seleccionar (45).mp4 2
-./data/raw/train\seleccionar\seleccionar (46).mp4 2
-./data/raw/train\seleccionar\seleccionar (47).mp4 2
-./data/raw/train\seleccionar\seleccionar (48).mp4 2
-./data/raw/train\seleccionar\seleccionar (5).mp4 2
-./data/raw/train\seleccionar\seleccionar (6).mp4 2
-./data/raw/train\seleccionar\seleccionar (7).mp4 2
-./data/raw/train\seleccionar\seleccionar (8).mp4 2
-./data/raw/train\seleccionar\seleccionar (9).mp4 2
-./data/raw/train\soltar\soltar (1).mp4 3
-./data/raw/train\soltar\soltar (10).mp4 3
-./data/raw/train\soltar\soltar (11).mp4 3
-./data/raw/train\soltar\soltar (12).mp4 3
-./data/raw/train\soltar\soltar (13).mp4 3
-./data/raw/train\soltar\soltar (14).mp4 3
-./data/raw/train\soltar\soltar (15).mp4 3
-./data/raw/train\soltar\soltar (16).mp4 3
-./data/raw/train\soltar\soltar (17).mp4 3
-./data/raw/train\soltar\soltar (18).mp4 3
-./data/raw/train\soltar\soltar (19).mp4 3
-./data/raw/train\soltar\soltar (2).mp4 3
-./data/raw/train\soltar\soltar (20).mp4 3
-./data/raw/train\soltar\soltar (21).mp4 3
-./data/raw/train\soltar\soltar (22).mp4 3
-./data/raw/train\soltar\soltar (23).mp4 3
-./data/raw/train\soltar\soltar (24).mp4 3
-./data/raw/train\soltar\soltar (25).mp4 3
-./data/raw/train\soltar\soltar (26).mp4 3
-./data/raw/train\soltar\soltar (27).mp4 3
-./data/raw/train\soltar\soltar (28).mp4 3
-./data/raw/train\soltar\soltar (29).mp4 3
-./data/raw/train\soltar\soltar (3).mp4 3
-./data/raw/train\soltar\soltar (30).mp4 3
-./data/raw/train\soltar\soltar (31).mp4 3
-./data/raw/train\soltar\soltar (32).mp4 3
-./data/raw/train\soltar\soltar (33).mp4 3
-./data/raw/train\soltar\soltar (34).mp4 3
-./data/raw/train\soltar\soltar (35).mp4 3
-./data/raw/train\soltar\soltar (36).mp4 3
-./data/raw/train\soltar\soltar (37).mp4 3
-./data/raw/train\soltar\soltar (38).mp4 3
-./data/raw/train\soltar\soltar (39).mp4 3
-./data/raw/train\soltar\soltar (4).mp4 3
-./data/raw/train\soltar\soltar (40).mp4 3
-./data/raw/train\soltar\soltar (41).mp4 3
-./data/raw/train\soltar\soltar (42).mp4 3
-./data/raw/train\soltar\soltar (43).mp4 3
-./data/raw/train\soltar\soltar (44).mp4 3
-./data/raw/train\soltar\soltar (45).mp4 3
-./data/raw/train\soltar\soltar (46).mp4 3
-./data/raw/train\soltar\soltar (47).mp4 3
-./data/raw/train\soltar\soltar (48).mp4 3
-./data/raw/train\soltar\soltar (5).mp4 3
-./data/raw/train\soltar\soltar (6).mp4 3
-./data/raw/train\soltar\soltar (7).mp4 3
-./data/raw/train\soltar\soltar (8).mp4 3
-./data/raw/train\soltar\soltar (9).mp4 3
+data/raw/train/afirmar/afirmar_001.avi 0
+data/raw/train/afirmar/afirmar_002.avi 0
+data/raw/train/afirmar/afirmar_003.avi 0
+data/raw/train/afirmar/afirmar_004.avi 0
+data/raw/train/afirmar/afirmar_005.avi 0
+data/raw/train/afirmar/afirmar_006.avi 0
+data/raw/train/afirmar/afirmar_007.avi 0
+data/raw/train/afirmar/afirmar_008.avi 0
+data/raw/train/afirmar/afirmar_009.avi 0
+data/raw/train/afirmar/afirmar_010.avi 0
+data/raw/train/afirmar/afirmar_011.avi 0
+data/raw/train/afirmar/afirmar_012.avi 0
+data/raw/train/afirmar/afirmar_013.avi 0
+data/raw/train/afirmar/afirmar_014.avi 0
+data/raw/train/afirmar/afirmar_015.avi 0
+data/raw/train/afirmar/afirmar_016.avi 0
+data/raw/train/afirmar/afirmar_017.avi 0
+data/raw/train/afirmar/afirmar_018.avi 0
+data/raw/train/afirmar/afirmar_019.avi 0
+data/raw/train/afirmar/afirmar_020.avi 0
+data/raw/train/afirmar/afirmar_021.avi 0
+data/raw/train/afirmar/afirmar_022.avi 0
+data/raw/train/afirmar/afirmar_023.avi 0
+data/raw/train/afirmar/afirmar_024.avi 0
+data/raw/train/afirmar/afirmar_025.avi 0
+data/raw/train/afirmar/afirmar_026.avi 0
+data/raw/train/afirmar/afirmar_027.avi 0
+data/raw/train/afirmar/afirmar_028.avi 0
+data/raw/train/afirmar/afirmar_029.avi 0
+data/raw/train/afirmar/afirmar_030.avi 0
+data/raw/train/afirmar/afirmar_031.avi 0
+data/raw/train/afirmar/afirmar_032.avi 0
+data/raw/train/afirmar/afirmar_033.avi 0
+data/raw/train/afirmar/afirmar_034.avi 0
+data/raw/train/afirmar/afirmar_035.avi 0
+data/raw/train/afirmar/afirmar_036.avi 0
+data/raw/train/afirmar/afirmar_037.avi 0
+data/raw/train/afirmar/afirmar_038.avi 0
+data/raw/train/afirmar/afirmar_039.avi 0
+data/raw/train/afirmar/afirmar_040.avi 0
+data/raw/train/afirmar/afirmar_041.avi 0
+data/raw/train/afirmar/afirmar_042.avi 0
+data/raw/train/afirmar/afirmar_043.avi 0
+data/raw/train/afirmar/afirmar_044.avi 0
+data/raw/train/afirmar/afirmar_045.avi 0
+data/raw/train/afirmar/afirmar_046.avi 0
+data/raw/train/afirmar/afirmar_047.avi 0
+data/raw/train/afirmar/afirmar_048.avi 0
+data/raw/train/afirmar/afirmar_049.avi 0
+data/raw/train/afirmar/afirmar_050.avi 0
+data/raw/train/afirmar/afirmar_051.avi 0
+data/raw/train/bajar_mano/bajar_mano_001.avi 1
+data/raw/train/bajar_mano/bajar_mano_002.avi 1
+data/raw/train/bajar_mano/bajar_mano_003.avi 1
+data/raw/train/bajar_mano/bajar_mano_004.avi 1
+data/raw/train/bajar_mano/bajar_mano_005.avi 1
+data/raw/train/bajar_mano/bajar_mano_006.avi 1
+data/raw/train/bajar_mano/bajar_mano_007.avi 1
+data/raw/train/bajar_mano/bajar_mano_008.avi 1
+data/raw/train/bajar_mano/bajar_mano_009.avi 1
+data/raw/train/bajar_mano/bajar_mano_010.avi 1
+data/raw/train/bajar_mano/bajar_mano_011.avi 1
+data/raw/train/bajar_mano/bajar_mano_012.avi 1
+data/raw/train/bajar_mano/bajar_mano_013.avi 1
+data/raw/train/bajar_mano/bajar_mano_014.avi 1
+data/raw/train/bajar_mano/bajar_mano_015.avi 1
+data/raw/train/bajar_mano/bajar_mano_016.avi 1
+data/raw/train/bajar_mano/bajar_mano_017.avi 1
+data/raw/train/bajar_mano/bajar_mano_018.avi 1
+data/raw/train/bajar_mano/bajar_mano_019.avi 1
+data/raw/train/bajar_mano/bajar_mano_020.avi 1
+data/raw/train/bajar_mano/bajar_mano_021.avi 1
+data/raw/train/bajar_mano/bajar_mano_022.avi 1
+data/raw/train/bajar_mano/bajar_mano_023.avi 1
+data/raw/train/bajar_mano/bajar_mano_024.avi 1
+data/raw/train/bajar_mano/bajar_mano_025.avi 1
+data/raw/train/bajar_mano/bajar_mano_026.avi 1
+data/raw/train/bajar_mano/bajar_mano_027.avi 1
+data/raw/train/bajar_mano/bajar_mano_028.avi 1
+data/raw/train/bajar_mano/bajar_mano_029.avi 1
+data/raw/train/bajar_mano/bajar_mano_030.avi 1
+data/raw/train/bajar_mano/bajar_mano_031.avi 1
+data/raw/train/bajar_mano/bajar_mano_032.avi 1
+data/raw/train/bajar_mano/bajar_mano_033.avi 1
+data/raw/train/bajar_mano/bajar_mano_034.avi 1
+data/raw/train/bajar_mano/bajar_mano_035.avi 1
+data/raw/train/bajar_mano/bajar_mano_036.avi 1
+data/raw/train/bajar_mano/bajar_mano_037.avi 1
+data/raw/train/bajar_mano/bajar_mano_038.avi 1
+data/raw/train/bajar_mano/bajar_mano_039.avi 1
+data/raw/train/bajar_mano/bajar_mano_040.avi 1
+data/raw/train/bajar_mano/bajar_mano_041.avi 1
+data/raw/train/bajar_mano/bajar_mano_042.avi 1
+data/raw/train/bajar_mano/bajar_mano_043.avi 1
+data/raw/train/bajar_mano/bajar_mano_044.avi 1
+data/raw/train/bajar_mano/bajar_mano_045.avi 1
+data/raw/train/bajar_mano/bajar_mano_046.avi 1
+data/raw/train/bajar_mano/bajar_mano_047.avi 1
+data/raw/train/bajar_mano/bajar_mano_048.avi 1
+data/raw/train/bajar_mano/bajar_mano_049.avi 1
+data/raw/train/bajar_mano/bajar_mano_050.avi 1
+data/raw/train/bajar_mano/bajar_mano_051.avi 1
+data/raw/train/confirmar/confirmar_001.avi 2
+data/raw/train/confirmar/confirmar_002.avi 2
+data/raw/train/confirmar/confirmar_003.avi 2
+data/raw/train/confirmar/confirmar_004.avi 2
+data/raw/train/confirmar/confirmar_005.avi 2
+data/raw/train/confirmar/confirmar_006.avi 2
+data/raw/train/confirmar/confirmar_007.avi 2
+data/raw/train/confirmar/confirmar_008.avi 2
+data/raw/train/confirmar/confirmar_009.avi 2
+data/raw/train/confirmar/confirmar_010.avi 2
+data/raw/train/confirmar/confirmar_011.avi 2
+data/raw/train/confirmar/confirmar_012.avi 2
+data/raw/train/confirmar/confirmar_013.avi 2
+data/raw/train/confirmar/confirmar_014.avi 2
+data/raw/train/confirmar/confirmar_015.avi 2
+data/raw/train/confirmar/confirmar_016.avi 2
+data/raw/train/confirmar/confirmar_017.avi 2
+data/raw/train/confirmar/confirmar_018.avi 2
+data/raw/train/confirmar/confirmar_019.avi 2
+data/raw/train/confirmar/confirmar_020.avi 2
+data/raw/train/confirmar/confirmar_021.avi 2
+data/raw/train/confirmar/confirmar_022.avi 2
+data/raw/train/confirmar/confirmar_023.avi 2
+data/raw/train/confirmar/confirmar_024.avi 2
+data/raw/train/confirmar/confirmar_025.avi 2
+data/raw/train/confirmar/confirmar_026.avi 2
+data/raw/train/confirmar/confirmar_027.avi 2
+data/raw/train/confirmar/confirmar_028.avi 2
+data/raw/train/confirmar/confirmar_029.avi 2
+data/raw/train/confirmar/confirmar_030.avi 2
+data/raw/train/confirmar/confirmar_031.avi 2
+data/raw/train/confirmar/confirmar_032.avi 2
+data/raw/train/confirmar/confirmar_033.avi 2
+data/raw/train/confirmar/confirmar_034.avi 2
+data/raw/train/confirmar/confirmar_035.avi 2
+data/raw/train/confirmar/confirmar_036.avi 2
+data/raw/train/confirmar/confirmar_037.avi 2
+data/raw/train/confirmar/confirmar_038.avi 2
+data/raw/train/confirmar/confirmar_039.avi 2
+data/raw/train/confirmar/confirmar_040.avi 2
+data/raw/train/confirmar/confirmar_041.avi 2
+data/raw/train/confirmar/confirmar_042.avi 2
+data/raw/train/confirmar/confirmar_043.avi 2
+data/raw/train/confirmar/confirmar_044.avi 2
+data/raw/train/confirmar/confirmar_045.avi 2
+data/raw/train/confirmar/confirmar_046.avi 2
+data/raw/train/confirmar/confirmar_047.avi 2
+data/raw/train/confirmar/confirmar_048.avi 2
+data/raw/train/confirmar/confirmar_049.avi 2
+data/raw/train/confirmar/confirmar_050.avi 2
+data/raw/train/confirmar/confirmar_051.avi 2
+data/raw/train/levantar_mano/levantar_mano_001.avi 3
+data/raw/train/levantar_mano/levantar_mano_002.avi 3
+data/raw/train/levantar_mano/levantar_mano_003.avi 3
+data/raw/train/levantar_mano/levantar_mano_004.avi 3
+data/raw/train/levantar_mano/levantar_mano_005.avi 3
+data/raw/train/levantar_mano/levantar_mano_006.avi 3
+data/raw/train/levantar_mano/levantar_mano_007.avi 3
+data/raw/train/levantar_mano/levantar_mano_008.avi 3
+data/raw/train/levantar_mano/levantar_mano_009.avi 3
+data/raw/train/levantar_mano/levantar_mano_010.avi 3
+data/raw/train/levantar_mano/levantar_mano_011.avi 3
+data/raw/train/levantar_mano/levantar_mano_012.avi 3
+data/raw/train/levantar_mano/levantar_mano_013.avi 3
+data/raw/train/levantar_mano/levantar_mano_014.avi 3
+data/raw/train/levantar_mano/levantar_mano_015.avi 3
+data/raw/train/levantar_mano/levantar_mano_016.avi 3
+data/raw/train/levantar_mano/levantar_mano_017.avi 3
+data/raw/train/levantar_mano/levantar_mano_018.avi 3
+data/raw/train/levantar_mano/levantar_mano_019.avi 3
+data/raw/train/levantar_mano/levantar_mano_020.avi 3
+data/raw/train/levantar_mano/levantar_mano_021.avi 3
+data/raw/train/levantar_mano/levantar_mano_022.avi 3
+data/raw/train/levantar_mano/levantar_mano_023.avi 3
+data/raw/train/levantar_mano/levantar_mano_024.avi 3
+data/raw/train/levantar_mano/levantar_mano_025.avi 3
+data/raw/train/levantar_mano/levantar_mano_026.avi 3
+data/raw/train/levantar_mano/levantar_mano_027.avi 3
+data/raw/train/levantar_mano/levantar_mano_028.avi 3
+data/raw/train/levantar_mano/levantar_mano_029.avi 3
+data/raw/train/levantar_mano/levantar_mano_030.avi 3
+data/raw/train/levantar_mano/levantar_mano_031.avi 3
+data/raw/train/levantar_mano/levantar_mano_032.avi 3
+data/raw/train/levantar_mano/levantar_mano_033.avi 3
+data/raw/train/levantar_mano/levantar_mano_034.avi 3
+data/raw/train/levantar_mano/levantar_mano_035.avi 3
+data/raw/train/levantar_mano/levantar_mano_036.avi 3
+data/raw/train/levantar_mano/levantar_mano_037.avi 3
+data/raw/train/levantar_mano/levantar_mano_038.avi 3
+data/raw/train/levantar_mano/levantar_mano_039.avi 3
+data/raw/train/levantar_mano/levantar_mano_040.avi 3
+data/raw/train/levantar_mano/levantar_mano_041.avi 3
+data/raw/train/levantar_mano/levantar_mano_042.avi 3
+data/raw/train/levantar_mano/levantar_mano_043.avi 3
+data/raw/train/levantar_mano/levantar_mano_044.avi 3
+data/raw/train/levantar_mano/levantar_mano_045.avi 3
+data/raw/train/levantar_mano/levantar_mano_046.avi 3
+data/raw/train/levantar_mano/levantar_mano_047.avi 3
+data/raw/train/levantar_mano/levantar_mano_048.avi 3
+data/raw/train/levantar_mano/levantar_mano_049.avi 3
+data/raw/train/levantar_mano/levantar_mano_050.avi 3
+data/raw/train/levantar_mano/levantar_mano_051.avi 3
+data/raw/train/pellizco/pellizco_001.avi 4
+data/raw/train/pellizco/pellizco_002.avi 4
+data/raw/train/pellizco/pellizco_003.avi 4
+data/raw/train/pellizco/pellizco_004.avi 4
+data/raw/train/pellizco/pellizco_005.avi 4
+data/raw/train/pellizco/pellizco_006.avi 4
+data/raw/train/pellizco/pellizco_007.avi 4
+data/raw/train/pellizco/pellizco_008.avi 4
+data/raw/train/pellizco/pellizco_009.avi 4
+data/raw/train/pellizco/pellizco_010.avi 4
+data/raw/train/pellizco/pellizco_011.avi 4
+data/raw/train/pellizco/pellizco_012.avi 4
+data/raw/train/pellizco/pellizco_013.avi 4
+data/raw/train/pellizco/pellizco_014.avi 4
+data/raw/train/pellizco/pellizco_015.avi 4
+data/raw/train/pellizco/pellizco_016.avi 4
+data/raw/train/pellizco/pellizco_017.avi 4
+data/raw/train/pellizco/pellizco_018.avi 4
+data/raw/train/pellizco/pellizco_019.avi 4
+data/raw/train/pellizco/pellizco_020.avi 4
+data/raw/train/pellizco/pellizco_021.avi 4
+data/raw/train/pellizco/pellizco_022.avi 4
+data/raw/train/pellizco/pellizco_023.avi 4
+data/raw/train/pellizco/pellizco_024.avi 4
+data/raw/train/pellizco/pellizco_025.avi 4
+data/raw/train/pellizco/pellizco_026.avi 4
+data/raw/train/pellizco/pellizco_027.avi 4
+data/raw/train/pellizco/pellizco_028.avi 4
+data/raw/train/pellizco/pellizco_029.avi 4
+data/raw/train/pellizco/pellizco_030.avi 4
+data/raw/train/pellizco/pellizco_031.avi 4
+data/raw/train/pellizco/pellizco_032.avi 4
+data/raw/train/pellizco/pellizco_033.avi 4
+data/raw/train/pellizco/pellizco_034.avi 4
+data/raw/train/pellizco/pellizco_035.avi 4
+data/raw/train/pellizco/pellizco_036.avi 4
+data/raw/train/pellizco/pellizco_037.avi 4
+data/raw/train/pellizco/pellizco_038.avi 4
+data/raw/train/pellizco/pellizco_039.avi 4
+data/raw/train/pellizco/pellizco_040.avi 4
+data/raw/train/pellizco/pellizco_041.avi 4
+data/raw/train/pellizco/pellizco_042.avi 4
+data/raw/train/pellizco/pellizco_043.avi 4
+data/raw/train/pellizco/pellizco_044.avi 4
+data/raw/train/pellizco/pellizco_045.avi 4
+data/raw/train/pellizco/pellizco_046.avi 4
+data/raw/train/pellizco/pellizco_047.avi 4
+data/raw/train/pellizco/pellizco_048.avi 4
+data/raw/train/pellizco/pellizco_049.avi 4
+data/raw/train/pellizco/pellizco_050.avi 4
+data/raw/train/pellizco/pellizco_051.avi 4

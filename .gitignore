@@ -5,7 +5,10 @@ __pycache__/
 # Virtual environment
 venv_tesisGR/
 
+TESISvenv/
+
 # Data
+data/raw/
 
 
 # Model weights

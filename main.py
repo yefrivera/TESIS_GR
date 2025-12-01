@@ -6,7 +6,7 @@ from collections import deque
 import time
 
 # Importar módulos locales
-from config import Config
+from data.raw.val.confirmar.config import Config
 from models.detection import HandDetector
 from preprocessing.denoising import WaveletDenoiser
 from models.temporal_models import ResNeXt101_3D_CBAM
@@ -40,7 +40,7 @@ def main():
     cap = cv2.VideoCapture(0) # Webcam 0
     
     # Clases (Ejemplo Jester/HaGRID)
-    classes = ['NoGesture', 'Swipe Left', 'Swipe Right', 'Thumb Up', 'Zoom In'] 
+    classes = ['Afirmar', 'Bajar La Mano', 'Confirmar', 'Levangtar La Mano', 'Pellizco'] 
 
     while True:
         start_time = time.time()
