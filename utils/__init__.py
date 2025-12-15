@@ -1,1 +1,3 @@
 from utils.cvfpscalc import CvFpsCalc
+from utils.static_gestures_classifier import KeyPointClassifier
+from utils.dynamic_gestures_classifier import PointHistoryClassifier

@@ -3,4 +3,6 @@ opencv-python
 tensorflow 
 scikit-learn 
 matplotlib 
+pandas
+seaborn
 #protobuf<3.20,>=3.9.2 
