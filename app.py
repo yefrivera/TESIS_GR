@@ -48,7 +48,6 @@ def main():
     min_detection_confidence = args.min_detection_confidence
     min_tracking_confidence = args.min_tracking_confidence
 
-    # CAMBIO: Desactivar el rectángulo (Bounding Rect)
     use_brect = False
 
     # Camera preparation ###############################################################
@@ -120,8 +119,9 @@ def main():
 
         #  ####################################################################
         if results.multi_hand_landmarks is not None:
-            for hand_landmarks, handedness in zip(results.multi_hand_landmarks,
-                                                  results.multi_handedness):
+            # CAMBIO: Usamos enumerate para obtener el índice 'i' (0 para mano 1, 1 para mano 2)
+            for i, (hand_landmarks, handedness) in enumerate(zip(results.multi_hand_landmarks,
+                                                                 results.multi_handedness)):
                 # Bounding box calculation
                 brect = calc_bounding_rect(debug_image, hand_landmarks)
                 # Landmark calculation
@@ -159,13 +159,14 @@ def main():
                 debug_image = draw_bounding_rect(use_brect, debug_image, brect)
                 debug_image = draw_landmarks(debug_image, landmark_list)
                 
-                # CAMBIO: Pasamos el ancho de la imagen para calcular la posición a la derecha
+                # CAMBIO: Pasamos el índice 'i' a la función de dibujo
                 debug_image = draw_info_text(
                     debug_image,
                     brect,
                     handedness,
                     keypoint_classifier_labels[hand_sign_id],
                     point_history_classifier_labels[most_common_fg_id[0][0]],
+                    i  # <-- Aquí pasamos el índice (0 o 1)
                 )
         else:
             point_history.append([0, 0])
@@ -266,7 +267,7 @@ def logging_csv(number, mode, landmark_list, point_history_list):
     if mode == 0:
         pass
     if mode == 1 and (0 <= number <= 9):
-        csv_path = 'data/static_gestures/static_gestures.csv'
+        csv_path = 'data/static_gestures/static_gestures_v2.csv'
         with open(csv_path, 'a', newline="") as f:
             writer = csv.writer(f)
             writer.writerow([number, *landmark_list])
@@ -472,8 +473,9 @@ def draw_bounding_rect(use_brect, image, brect):
     return image
 
 
+# CAMBIO: Añadimos 'index' como parámetro para saber qué mano es (0 o 1)
 def draw_info_text(image, brect, handedness, hand_sign_text,
-                   finger_gesture_text):
+                   finger_gesture_text, index):
 
     # Construir el texto de Mano:Gesto
     info_text = handedness.classification[0].label[0:]
@@ -491,18 +493,25 @@ def draw_info_text(image, brect, handedness, hand_sign_text,
     (text_width, text_height), _ = cv.getTextSize(info_text, font, scale, thickness)
     img_width = image.shape[1]
     
+    # CAMBIO: Calculamos la posición Y basándonos en el índice
+    # Si es la primera mano (index 0), y_pos será 30
+    # Si es la segunda mano (index 1), y_pos será 30 + 40 = 70 (más abajo)
+    vertical_offset = 40 * index
+    
     # Posición X: Ancho imagen - Ancho texto - 10px margen
     x_pos = img_width - text_width - 10 
-    y_pos = 30 # Misma altura que el FPS
+    y_pos = 30 + vertical_offset
 
     # Dibujar texto Mano:Gesto a la derecha
     cv.putText(image, info_text, (x_pos, y_pos),
                font, scale, color, thickness, cv.LINE_AA)
 
     # Dibujar Finger Gesture a la izquierda (debajo del FPS)
-    # Estandarizado también a negro
+    # CAMBIO: También ajustamos la posición Y para los textos de la izquierda
+    # La base es 60, y le sumamos el offset si hay una segunda mano
     if finger_gesture_text != "":
-        cv.putText(image, "Gesto del dedo: " + finger_gesture_text, (10, 60),
+        left_y_pos = 60 + (30 * index) # Offset un poco menor para la izquierda
+        cv.putText(image, "Gestos dinamicos: " + finger_gesture_text, (10, left_y_pos),
                    font, scale, color, thickness, cv.LINE_AA)
 
     return image
@@ -522,7 +531,7 @@ def draw_info(image, fps, mode, number):
     cv.putText(image, "FPS: " + str(fps), (10, 30), cv.FONT_HERSHEY_SIMPLEX,
                1.0, (0, 0, 0), 2, cv.LINE_AA)
 
-    mode_string = ['Entrada gestos estáticos', 'Entrada gestos dinámicos']
+    mode_string = ['Entrada gestos estaticos', 'Entrada gestos dinamicos']
     if 1 <= mode <= 2:
         cv.putText(image, "MODE: " + mode_string[mode - 1], (10, 90),
                    cv.FONT_HERSHEY_SIMPLEX, 0.6, (0, 0, 0), 1,
